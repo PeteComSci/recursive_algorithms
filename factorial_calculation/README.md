@@ -1,6 +1,6 @@
 Factorial Calculation is a straightforward example of recursion, clearly showing how a problem can be broken down into smaller instances of itself.
 
-### 1. Factorial Calculation
+### Factorial Calculation
 ```plaintext
 function factorial(n)
     // Base case: if n is 0 or 1
